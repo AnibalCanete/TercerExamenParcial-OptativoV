@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lHA40G5vF0QDaIu+qfMYPHbPkvVkC+Vn5Czd+t52HLQ=",
+  "Source": "api.bancario",
+  "BasePath": "_content/api.bancario",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
